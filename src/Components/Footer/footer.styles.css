@@ -1,0 +1,12 @@
+.signs {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px; /* Adjust as necessary */
+}
+
+i{
+    font-size: 36px;
+    margin: 0 10px; /* Adjust as necessary */
+    color: #333; /* Example color */
+}

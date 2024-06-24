@@ -1,0 +1,19 @@
+nav ul{
+    list-style-type:none;
+    background-color:#FFFFFF;
+    display:flex;
+    justify-content:end;
+    margin-right:0.5rem;
+    color: rgba(0, 0, 0, 1);
+}
+nav li{
+    font-size: 1em;
+    padding:1em;
+}
+nav a{
+    text-decoration: none;
+    color: rgba(0, 0, 0, 1);
+}
+.menu{
+    display:none;
+}
